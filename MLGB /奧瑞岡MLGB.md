@@ -131,9 +131,9 @@ Oregon 3v3 × MLGB（V1 可玩版）
 👉 每回合都要加這段
 
 【JUDGE】
+評分重點：注重證據力（實證）、辯論技巧（質詢與答辯）及論證結構。
 
 請根據剛才發言輸出：
-
 - damage_to_target: 數值（0~30）
 - collapse_triggered: yes / no
 
